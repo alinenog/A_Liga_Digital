@@ -1,0 +1,82 @@
+/*rgb(221, 205, 205)*/
+/*==== Geral ========================================*/
+.box {
+  background: rgb(221, 205, 205);
+  width: 50rem; /*largura*/
+  height: 55rem;
+  margin: auto;
+  border-radius: 2px solid;
+}
+
+/*==== Titulo e logo inici ========================================*/
+header {
+  width: auto;
+  height: -25rem;
+  margin-bottom: -5rem;
+}
+
+.header {
+  text-align: center;
+}
+
+/*==== Main ========================================*/
+.one {
+  width: auto;
+  margin-top: -110px;
+}
+
+img {
+  width: 25rem;
+  margin-top: 10px;
+  margin: 5%;
+}
+
+.basic {
+  text-align: right;
+  position: relative;
+  margin-top: -540px;
+  width: 550px;
+  float: center;
+}
+/*==== Infomações ========================================*/
+.two {
+  margin-top: 150px;
+}
+/*==== footer ========================================*/
+footer {
+  text-align: center;
+  text-indent: 300px;
+}
+
+/*==== text ========================================*/
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  font-size: 17px;
+}
+
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.letra {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+}
+
+.letraI {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18x;
+}
+
+.text {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: -100px;
+}
+
+hr {
+  align-items: flex-start;
+  color: black;
+}
