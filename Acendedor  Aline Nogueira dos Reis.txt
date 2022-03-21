@@ -1,0 +1,15 @@
+#Acendedor  Aline Nogueira dos Reis
+
+apertar interruptor
+se luz estiver queimada 
+	desligar interruptor 
+	pegar escada 
+	pegar a lampada nova 
+	subir na escada 
+	dessesrroscar a lampada queimada
+	retirar a lâmpada queimada 
+	enroscar a lampada nova 
+	descer da escada 
+	ligar o interruptor
+se nao 
+	ligar a luz	
