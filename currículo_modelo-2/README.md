@@ -1,2 +1,5 @@
-# Currículo
-Currículo realizado durante o Bootcamp Vem Ser Dev
+# Bootcamp Vem Ser Dev - Liga Digital
+
+* Estrutura para acender a luz
+* Currículo realizado -  primeiro contato Html
+* Currículo trabalhado 

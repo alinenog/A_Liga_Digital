@@ -1,0 +1,83 @@
+/*
+#ddafaf : rosa
+#272727: cinza escuro
+#6c5555 :marron 
+#a8a5a5 :cinza claro 
+#a8a8a8: cinza
+*/
+
+body{
+    background-color: aqua;
+}
+
+#principal{
+    background-color: white;
+    margin: 0 300px 0 300px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 70%;
+}
+
+/* Geral ======================================================== */  
+.titulo{
+    color: #6c5555 ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform:uppercase;
+    margin-left: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+/* Lado esquerdo ======================================================== */
+.lado_esquerdo{
+    background-color: #ddafaf;
+
+}
+
+.me{
+ color: white;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.material-icons.icone_branco{
+    color: white;
+
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    width: 100%;
+   
+}
+
+.descricao{
+    font-size: 16px;
+    color: white;
+    font-weight: 100;
+    font-family: Andale mono,monospace;
+    margin-left: 16px;
+}
+
+/*em cima, a direita, em baixo  a esquerda*/
+.image{
+    margin: 50px 25px 50px 25px;
+    border-radius: 50%;
+    }
+    
+/* Lado direito ======================================================== */
+.lado_direito{
+background-color:#6c5555;
+
+}
+
+
+
+  
+/* Footer ======================================================== */    
