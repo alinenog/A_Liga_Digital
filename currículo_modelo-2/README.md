@@ -2,4 +2,4 @@
 
 * Estrutura para acender a luz
 * Currículo realizado -  primeiro contato Html
-* Currículo trabalhado 
+* Currículo desenvolvido durante a formaão 
