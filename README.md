@@ -1,1 +1,5 @@
-# Exercícios  realizado durante o Bootcamp Vem Ser Dev da Liga Digital
+# Bootcamp Vem Ser Dev - Liga Digital
+
+* Estrutura de um código para acender a luz
+* Currículo realizado -  primeiro contato Html
+* Currículo desenvolvido durante a formação 
