@@ -13,7 +13,7 @@ body{
 #principal{
     background-color: white;
     margin: 0 19.75rem 0 19.75rem;
-    height: 100%; /*100vh*/
+    height: 100vh; /*100vh*/
     display: grid;
     grid-template-columns: 1fr 70%;
    
@@ -38,9 +38,6 @@ body{
  text-align: justify;
 }
 
-.material-icons.icone_branco{
-    color: white;
-}
 
 .bloco_informacao{
     display: flex;
@@ -69,10 +66,10 @@ body{
 /* Lado direito ======================================================== */
 #lado_direito{
     background-color:white;
-    color: #6c5555;
+    color: #6c5555; 
     margin-left: 1.87rem;
     margin-right: 1.87rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;    
 }
 
 p{ 
@@ -88,6 +85,7 @@ p{
     box-sizing: border-box;
     margin-left: 1rem;
     margin-right: 1rem;
+  
 }
   
 .descricao_rigth{
