@@ -12,89 +12,90 @@ body{
 
 #principal{
     background-color: white;
-    margin: 0 19.75rem 0 19.75rem;
-    height: 100vh; /*100vh*/
+    margin: 0 20rem 0 20rem;
+    height: 100%; /*100vh*/
     display: grid;
     grid-template-columns: 1fr 70%;
+    /*column-gap: 16; gera espaço entre as colunas*/
    
-}
-
-/* Geral ======================================================== */  
-.title_left{
-    color: #6c5555 ;
-    text-transform:uppercase;
-    margin-left: 1.25rem;
+    max-width: 100%;
 }
 /* Lado esquerdo ======================================================== */
 #lado_esquerdo{
     background-color: #ddafaf;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.me{
- color: white;
- margin-left: 1rem;
- margin-right: 1rem;
- text-align: justify;
-}
-
-
-.bloco_informacao{
-    display: flex;
-    flex-direction: row;
-    margin-left: 1.25rem;
-    margin-right: 1.25rem;
-    margin-bottom: 0.31rem;
-    width: 100%; 
-}
-
-.descricao_left{
-    font-size: 1rem;
-    color: white;
-    font-weight: 100;
-    font-family: Andale mono,monospace;
-    margin-left: 1rem;
-    margin-left: 1rem;
+    padding-left: 1.87rem;
+    padding-right: 1rem;
+  
 }
 
 /*em cima, a direita, em baixo  a esquerda*/
 .image{
     margin: 3.12rem 1.56rem 3.12rem 1.56rem;
     border-radius: 50%;
-    }
+}
+
+.me{
+    color: white;
+}
+
+.title_left{
+    color: #6c5555 ;
+    text-transform:uppercase;
+    margin-left: 1.25rem;
+}
+
+.bloco_informacao{
+    display: flex;
+    flex-direction: row;  
+    margin-bottom: 0.31rem;
+    width: 80%; 
+}
+
+.descricao_left{
+    font-size: 1rem;
+    color: white;
+    font-weight: 100;
+    padding-left: 1rem;
+}
+
+h4{
+    font-weight: 600;
     
+}
+
+
 /* Lado direito ======================================================== */
 #lado_direito{
     background-color:white;
     color: #6c5555; 
-    margin-left: 1.87rem;
-    margin-right: 1.87rem;
     font-family: Arial, Helvetica, sans-serif;    
+    padding-left:1rem ;
 }
 
 p{ 
     text-align: justify;
 }
 
-.title_right{
-    text-transform:uppercase;
-    background-color:#ddafaf ;
-}
-
 .box{
     box-sizing: border-box;
-    margin-left: 1rem;
     margin-right: 1rem;
-  
+    text-transform:uppercase;
+    background-color:#ddafaf ;
+    width: auto;
+    word-break: break-all;/*quebra linha*/
 }
   
 .descricao_rigth{
     font-size: 1rem;
     font-weight: 200;
-    font-family: Andale mono,monospace;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    padding-right: 1rem;
+    word-break: break-all;
 }
 
 
 /* Footer ======================================================== */    
+footer{
+  align-items: center;
+  
+}
