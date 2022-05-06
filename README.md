@@ -6,13 +6,14 @@ Formação Front-end - Back-end - Integração e API
 
 * Git 
 * GitHub
-* Html 5 
-* Css 3 
-* Java Script 
+* Html5 
+* Css3 
+* JavaScript 
 * Bootstrap
-* POO
-* Node
-* Next
+* POO - Programação Orientada a Objetos
+* NodeJS
+* NestJS
+* SGBD
 
 ### Exercicios propostos  💻
 ____________________________________________________________________
@@ -20,3 +21,7 @@ ____________________________________________________________________
 * Currículo realizado -  primeiro contato Html
 * Currículo desenvolvido durante a formação 
 * Estrutura site
+* Exercicios Programação Orientada a Objetos com JavaScript
+* Replicar tutorial de criação de uma API
+* 
+* Projeto Final | Backend : Api com CRUD de item | FrontEnd : Aplicação ReactJS
