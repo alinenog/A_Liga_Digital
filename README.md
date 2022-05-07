@@ -12,7 +12,7 @@ Formação Front-end - Back-end - Integração e API
 * Bootstrap
 * POO
 * Node
-* Next
+* NestJS
 
 ### Exercicios propostos  💻
 ____________________________________________________________________
