@@ -21,12 +21,12 @@ export default function EditarProduto(){
         api.patch(`/item/${produtoEdit.id}`, produtoEdit )
         .then((response) => {
             if(response.status === 200){
-                message.success('Editado com sucesso', 5, true);
+                message.success('Editado com sucesso', 5);
                 history.push('/produtos')
             }
         })
         .catch((err) => {
-            message.warning("Aconteceu um erro inesperado" + err);
+            message.warning("Aconteceu um erro inesperado" + err.response.message[0], 5);
         })
     }
 
@@ -62,7 +62,7 @@ export default function EditarProduto(){
                     });
                      }}/>
                 </div>
-                <Button type="primary" className='editar_btn' onClick={() => handleSubmit(produtoEdit)} >editar</Button>
+                <Button type="primary" className='editar_btn' onClick={() => handleSubmit(produtoEdit)} >Editar</Button>
            </div>
        </div> 
     )

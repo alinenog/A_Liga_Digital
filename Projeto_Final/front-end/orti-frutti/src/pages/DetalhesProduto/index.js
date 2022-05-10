@@ -10,11 +10,11 @@ export default function DetalhesProduto(){
 
     const [produto, setProduto] = useState([])
     const history = useHistory()
-    let {id} = useParams();
+    let {id} = useParams()
 
     const { confirm } = Modal;
 
-    function showConfirm(id){
+    function showConfirm(produto){
         confirm({
             title: 'Você quer realmente deletar este item:',
             icon: <ExclamationCircleOutlined />,
@@ -44,7 +44,7 @@ export default function DetalhesProduto(){
     useEffect(() => {
         api.get(`/item/${id}`)
         .then((response) => {
-            setProduto(response.data)
+        setProduto(response.data)
         })
         .catch((err) => {
             message.error("Aconteceu um erro inesperado!" + err)
@@ -60,7 +60,7 @@ export default function DetalhesProduto(){
             <div className=' produto_card_container'>
                 <Card key={produto.id} title={produto.name} bordered={false} style={{width: 300}}>
                 <p> Id: {produto.id} </p>
-                <p> UpdatedAt: {produto.UpdatedAt} </p>
+                <p> UpdatedAt: {produto.updatedAt} </p>
                 <p> Descrição: {produto.description} </p>
                 <p> Quantidade: {produto.quantity} </p>
                 <hr/>
