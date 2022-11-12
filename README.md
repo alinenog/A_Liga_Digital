@@ -1,7 +1,8 @@
 # 🚀 Bootcamp <Vem.Ser=Dev/> 2022 - A Liga Digital 
 
-## Sobre o projeto
-Formação Front-end | Back-end | Integração e API
+## Sobre o Bootcamp
+Formação Front-end | Back-end | Integração e API </br>
+Bootcamp ofertada pela A liga digital em parceria com o Grupo DPSP, na formação de novos profissionais.
 
 Exercicios propostos  👨‍💻
 <li> Aprender a trabalhar com Git e Github
