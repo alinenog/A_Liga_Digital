@@ -1,10 +1,31 @@
-# 🚀 Bootcamp <Vem.Ser=Dev/> - Liga Digital 
+# 🚀 Bootcamp <Vem.Ser=Dev/> 2022 - A Liga Digital 
 
-## Formação Front-end | Back-end | Integração e API
+## Sobre o projeto
+Formação Front-end | Back-end | Integração e API
+
+Exercicios propostos  👨‍💻
+<li> Aprender a trabalhar com Git e Github
+<li> Estrutura de um código para acender a luz
+<li> Currículo realizado -  primeiro contato Html
+<li> Currículo desenvolvido durante a formação 
+<li> Estrutura site
+<li> Exercicios Programação Orientada a Objetos com JavaScript
+<li> Replicação tutorial de criação de uma API
+<li> Ultilização do Heroku
+<li> Projeto Final | Backend : Api com CRUD de item | FrontEnd : Aplicação ReactJS
 
 </br>
 
-### Um pouco do aprendemos e conhecemos 👨🏻‍💻
+## Agradecimentos 
+Agradeço aos instrutores que dedicaram seu tempo e compartilharam parte do seu conhecimento conosco.
+
+👨‍🏫 TIAGO DOS SANTOS </br>
+👨‍🏫 ALEX CARNEIRO </br>
+👨‍🏫 LEONARDO GOMES 
+
+</br>
+
+## Tecnologias usadas
 
 <div  display: inline-block>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -20,9 +41,6 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/<SQL>-<light grey>">
-</br></br>
-
-### Algumas ferramentas que tivemos contato
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)">
@@ -34,26 +52,9 @@
 </div>
 </br></br>
 
-### Exercicios propostos  👨‍💻
-____________________________________________________________________
-* Estrutura de um código para acender a luz
-* Currículo realizado -  primeiro contato Html
-* Currículo desenvolvido durante a formação 
-* Estrutura site
-* Exercicios Programação Orientada a Objetos com JavaScript
-* Replicação tutorial de criação de uma API
-* Ultilização do Heroku
-* Projeto Final | Backend : Api com CRUD de item | FrontEnd : Aplicação ReactJS
-</br></br>
 
+<!--
+<a href="https://www.linkedin.com/in/acsjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+-->
 
-### 👨‍🏫 Instrutores 💻
-____________________________________________________________________
-Agradeço aos professores que tiveram dedicação em compartilhar parte do seu conhecimento conosco.
-
-Instrutor Tiago dos Santos</br>
-Instrutor Alex Carneiro </br>
-Instrutor Leonardo Gomes
-
-<div  display: inline-block>
 
